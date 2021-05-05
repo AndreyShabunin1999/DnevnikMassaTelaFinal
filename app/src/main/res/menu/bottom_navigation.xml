@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_imt"
+        android:icon="@drawable/ic_baseline_speed_24"
+        android:title="ИМТ" />
+    <item
+        android:id="@+id/nav_food"
+        android:icon="@drawable/ic_baseline_fastfood_24"
+        android:title="Еда" />
+    <item
+        android:id="@+id/nav_stat"
+        android:icon="@drawable/ic_baseline_leaderboard_24"
+        android:title="История" />
+    <item
+        android:id="@+id/nav_upr"
+        android:icon="@drawable/ic_baseline_pool_24"
+        android:title="Упражнения" />
+    <item
+        android:id="@+id/nav_sovet"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="Советы" />
+</menu>
